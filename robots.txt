@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://runedigitalstudio.com/sitemap.xml
